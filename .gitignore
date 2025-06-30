@@ -1,0 +1,6 @@
+# Ignore all jpg files
+*.jpg
+*.pyc
+*.txt
+*.png
+*.pth
